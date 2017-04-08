@@ -1,0 +1,8 @@
+Warenkorb
+Profile + Profilbilder
+E-Mail Verifizierung
+Ladezeiten verbessern
+Upload Progress
+E-Mail Versand verbessern (Junk, HTML)
+Grundlegende Einstellungen
+bessere About
